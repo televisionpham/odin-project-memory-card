@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/odin-project-memory-card/static/css/main.aabcc2d2.css",
+    "main.js": "/odin-project-memory-card/static/js/main.5543f1cc.js",
+    "static/js/787.60b04cbb.chunk.js": "/odin-project-memory-card/static/js/787.60b04cbb.chunk.js",
+    "index.html": "/odin-project-memory-card/index.html",
+    "main.aabcc2d2.css.map": "/odin-project-memory-card/static/css/main.aabcc2d2.css.map",
+    "main.5543f1cc.js.map": "/odin-project-memory-card/static/js/main.5543f1cc.js.map",
+    "787.60b04cbb.chunk.js.map": "/odin-project-memory-card/static/js/787.60b04cbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabcc2d2.css",
+    "static/js/main.5543f1cc.js"
+  ]
+}
